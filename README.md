@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Collin Haws</h1>
-<h3 align="center">Front-end developer - Graduate as a full-stack dev in Oct. 2023!🎉</h3>
+<h3 align="center">Current Front-end developer - I will Graduate as a full-stack dev in Oct. 2023!🎉</h3>
 
 - 🌱 I’m currently learning **Full Stack development**
 
